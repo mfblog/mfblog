@@ -18,10 +18,6 @@
 
 [![github streak](https://dev-stats.mintimate.cn/api/streak?username=mfblog&theme=github_dark&show_icons=true&hide_border=true)](https://github.com/mfblog)
 
-[![DevStats](https://dev-stats.mintimate.cn/api?username=mfblog&theme=github_dark&show_icons=true)](https://github.com/mfblog)
-
-[![Top Languages](https://dev-stats.mintimate.cn/api/top-langs?username=mfblog&theme=github_dark&layout=compact)](https://github.com/mfblog)
-
 ---
 
 ## 🧩 精选仓库
